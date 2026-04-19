@@ -10,6 +10,7 @@
   <a href="https://jereenvalsson.com"><img src="https://img.shields.io/badge/Portfolio-jereenvalsson.com-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/jereenvalsson/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jereen.valsson@grafana.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jereenv&style=for-the-badge&color=8B5CF6&label=profile+views" alt="Profile views"/>
 </p>
 
 </div>
